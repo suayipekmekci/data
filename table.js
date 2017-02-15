@@ -1,4 +1,4 @@
-{
+[{
     "id": 0,
     "name": "Item name 0",
     "price": 2100
@@ -798,4 +798,4 @@
     "id": 199,
     "name": "Item name 199",
     "price": 2299
-}
+}]
