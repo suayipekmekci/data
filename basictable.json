@@ -46,16 +46,4 @@
     "id": 11,
     "name": "Item name 11",
     "price": 2111
-}, {
-    "id": 12,
-    "name": "Item name 12",
-    "price": 2112
-}, {
-    "id": 13,
-    "name": "Item name 13",
-    "price": 2113
-}, {
-    "id": 14,
-    "name": "Item name 14",
-    "price": 2114
 }]
