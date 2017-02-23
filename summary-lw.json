@@ -1,0 +1,14 @@
+{
+    "list":[
+    { "value": "lp", "label": "Than last period" },
+    { "value": "lw", "label": "Than last week" },
+    { "value": "lm", "label": "Than last month" },
+    { "value": "ly", "label": "Than last year" }
+  ],
+  "selectedid":"lw",
+  "iconName":"fa fa-twitter",
+  "name":"Tweets",
+  "value":"2,850",
+  "trendIcon":"fa fa-chevron-circle-down",
+  "trendValue":"12.0"
+}
