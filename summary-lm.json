@@ -1,4 +1,4 @@
-{
+[{
     "list":[
     { "value": "lp", "label": "Than last period" },
     { "value": "lw", "label": "Than last week" },
@@ -11,4 +11,4 @@
   "value":"5,140",
   "trendIcon":"fa fa-chevron-circle-up",
   "trendValue":"86.4"
-}
+}]
