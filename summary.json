@@ -1,18 +1,13 @@
-[
-{
+[{
   "name":"Sessions",
-  "value":"21,980",
-},
-{
+  "value":"21,980"
+},{
   "name":"Users",
-  "value":"18,160",
-},
-{
+  "value":"18,160"
+},{
   "name":"Pageviews",
-  "value":"28,890",
-},
-{
+  "value":"28,890"
+},{
   "name":"Bounce Rate",
-  "value":"54 %",
-}
-]
+  "value":"54 %"
+}]
