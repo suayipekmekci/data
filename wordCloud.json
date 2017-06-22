@@ -122,6 +122,7 @@
     "text": "looked",
     "value": 26
 }, {
+<<<<<<< HEAD
     "text": "elinor",
     "value": 40
 }, {
@@ -139,6 +140,10 @@
 }, {
     "text": "Sudden",
     "value": 40
+=======
+    "value": "Sudden",
+    "count": 40
+>>>>>>> origin/master
 }, {
     "text": "inhabiting",
     "value": 35
